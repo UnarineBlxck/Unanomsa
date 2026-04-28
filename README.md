@@ -98,7 +98,7 @@ git clone https://github.com/yourusername/unanomsa-app.git
 ## 🎥 Video Demonstration
 
 A full walkthrough of the application is available here:
-[https://www.youtube.com/@crystalex9717](https://www.youtube.com/@crystalex9717)
+[https://www.youtube.com/@crystalex9717](https://youtu.be/ofFh7fSsWgM?feature=shared)
 
 ---
 
