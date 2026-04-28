@@ -74,7 +74,7 @@ This structure improves code readability, maintainability, and separation of con
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/unanomsa-app.git
+git clone https://github.com/UnarineBlxck/Unanomsa-app.git
 ```
 
 2. Open the project in Android Studio
@@ -98,7 +98,7 @@ git clone https://github.com/yourusername/unanomsa-app.git
 ## 🎥 Video Demonstration
 
 A full walkthrough of the application is available here:
-[https://www.youtube.com/@crystalex9717](https://youtu.be/ofFh7fSsWgM?feature=shared)
+[https://youtu.be/ofFh7fSsWgM?feature=shared]
 
 ---
 
